@@ -18,6 +18,4 @@ This project detects and recognizes faces in real-time using **OpenCV** and **Ma
 - Scikit-Learn
 - Streamlit (optional)
 
-## 📦 Setup
 
-Clone the repository:
